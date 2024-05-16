@@ -1,1 +1,2 @@
-# test06
+function x(){
+}
